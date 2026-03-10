@@ -19,9 +19,3 @@ A custom WordPress platform for managing and listing real estate properties with
 - HTML5, CSS3, JavaScript
 - Custom Post Types
 - Advanced Custom Fields
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/wordpress-real-estate-listing-platform.git
